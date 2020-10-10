@@ -1,2 +1,3 @@
 # firstProgram
 Learning...
+Just started my coding journey on Github, excited to analyise how it works!
